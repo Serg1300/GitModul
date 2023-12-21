@@ -8,6 +8,10 @@
             string word = Console.ReadLine();
             Console.WriteLine($"Привет {word}");
             Console.WriteLine($"Привет {word}");
+            Console.WriteLine($"Привет {word}");
+            Console.WriteLine($"Привет {word}");
+            Console.WriteLine($"Привет {word}");
+            Console.WriteLine($"Привет {word}");
         }
     }
 }
